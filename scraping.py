@@ -1,4 +1,4 @@
-
+#scraping for educational purposes
 import pandas as pd
 import urllib.request
 import time
